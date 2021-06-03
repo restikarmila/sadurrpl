@@ -1,8 +1,0 @@
-nim: 1811500039
-Nama: Reati Karmila
-Kelompok: TI6J
-
-hasil saya menyaduri:
-Ada tugas untuk menyedur tiap pertemuan dan ditaruh di githubb
-Buat kelompok presentasi sebanyak 3 orang mahasiswa / kelompok
-dst
